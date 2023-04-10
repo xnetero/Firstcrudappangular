@@ -1,0 +1,32 @@
+{
+  "ProductList": [
+    {
+      "productName": "aaaa",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 33,
+      "comment": "fsfsdf",
+      "date": "2023-04-27T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "younes",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 44,
+      "comment": "fsfsdfsdf",
+      "date": "2023-04-19T00:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
